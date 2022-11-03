@@ -5,6 +5,7 @@ import { createPinia } from 'pinia'
 
 //import createRouter from './pages/routes.js'
 import App from './App.vue'
+import './style.css';
 
 const store = createPinia()
 //const router = createRouter(createWebHistory())
