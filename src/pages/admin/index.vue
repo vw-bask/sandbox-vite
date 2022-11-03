@@ -4,7 +4,7 @@ import TopNav from '../../components/TopNav.vue';
 
 <template>
     <TopNav/>
-    <h1>Homepage Admin</h1>
+    <h1>Admin</h1>
 </template>
 <style>
 

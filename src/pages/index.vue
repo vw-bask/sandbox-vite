@@ -6,7 +6,7 @@ import Users from '../components/Users.vue';
 
 <template>
     <TopNav />
-    <h1>Index</h1>
+    <h1 class="text-3xl font-bold underline">Index</h1>
 </template>
 <style>
 
