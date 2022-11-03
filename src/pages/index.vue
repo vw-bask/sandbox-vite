@@ -1,5 +1,7 @@
 <script setup>
 import TopNav from '../components/TopNav.vue';
+import Users from '../components/Users.vue';
+
 </script>
 
 <template>
@@ -13,7 +15,7 @@ import TopNav from '../components/TopNav.vue';
 <script>
 export default {
     components: {
-        TopNav
+        TopNav, Users
     },
 
     computed: {},

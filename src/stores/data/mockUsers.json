@@ -1,0 +1,65 @@
+[
+    {
+        "id": 0,
+        "user": "Stacey78",
+        "name": "Stacey Leannon",
+        "department": "Games",
+        "loggedIn": true
+    },
+    {
+        "id": 1,
+        "user": "Wilbur27",
+        "name": "Wilbur Walter",
+        "department": "Baby",
+        "loggedIn": true
+    },
+    {
+        "id": 2,
+        "user": "Crystal88",
+        "name": "Crystal Abbott",
+        "department": "Kids",
+        "loggedIn": false
+    },
+    {
+        "id": 3,
+        "user": "Shelly_Stokes",
+        "name": "Shelly Stokes",
+        "department": "Computers",
+        "loggedIn": true
+    },
+    {
+        "id": 4,
+        "user": "Javier.Becker42",
+        "name": "Javier Becker",
+        "department": "Jewelery",
+        "loggedIn": true
+    },
+    {
+        "id": 5,
+        "user": "Courtney_Koss44",
+        "name": "Courtney Koss",
+        "department": "Shoes",
+        "loggedIn": true
+    },
+    {
+        "id": 6,
+        "user": "Juan_Green99",
+        "name": "Juan Green",
+        "department": "Clothing",
+        "loggedIn": false
+    },
+    {
+        "id": 7,
+        "user": "Johanna_Stroman",
+        "name": "Johanna Stroman",
+        "department": "Toys",
+        "loggedIn": true
+    },
+    {
+        "id": 8,
+        "user": "Irma.Lubowitz",
+        "name": "Irma Lubowitz",
+        "department": "Toys",
+        "loggedIn": true
+    }
+]
